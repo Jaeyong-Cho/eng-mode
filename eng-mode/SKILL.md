@@ -6,11 +6,9 @@ description: Routes a software-engineering request to the user's situation-princ
 # Engineering Mode
 
 ## Situations
-### Want to
-- Reach the goal
-- Add new feature
-- Fix bug
-- Understand code
-
-### Don't want
-- The result
+- When I want to reach the goal
+- When I want to add new feature
+- When I want to fix bug
+- When I want to understand
+- When I don't want to same work twice
+- When I don't want to same mistake twice
